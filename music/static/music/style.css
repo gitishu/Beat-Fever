@@ -1,0 +1,21 @@
+body{
+    background: white url("images/White-Background-40.png");
+
+}
+h3{
+    text-align: center;
+    font-synthesis: weight;
+    font-family: 'Alex Brush', cursive;
+    font-weight: 100;
+    font-size: 50px;
+    text-shadow: 2px 2px 3px blanchedalmond;
+
+
+}
+.navbar{
+    border-radius: 0;
+
+}
+.navbar-brand{
+    font-family: 'satisfy', cursive;
+}
